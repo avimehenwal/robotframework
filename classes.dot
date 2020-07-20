@@ -1,0 +1,5 @@
+digraph "classes" {
+charset="utf-8"
+rankdir=BT
+"0" [label="{RobotFramework|\l|main(datasources)\lvalidate(options, arguments)\l}", shape="record"];
+}

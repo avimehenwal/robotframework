@@ -9,7 +9,7 @@ MANIFEST
 atest/results
 utest/jasmine-results
 .idea
-.vscode
+# .vscode
 .*project
 *.pyc
 *$py.class
@@ -27,3 +27,8 @@ __pycache__
 .classpath
 .settings
 .jython_cache
+src/robotframework.dist-info/AUTHORS.rst
+src/robotframework.dist-info/entry_points.txt
+src/robotframework.dist-info/LICENSE.txt
+src/robotframework.dist-info/METADATA
+src/robotframework.dist-info/top_level.txt

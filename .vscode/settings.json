@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/avi/GIT/robotframework/venv/bin/python3",
+    "restructuredtext.confPath": "${workspaceFolder}/doc/api"
+}
